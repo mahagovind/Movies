@@ -39,6 +39,11 @@ Network Error :
 
 ![Video Walkthrough](movies_networkError.gif)
 
+One more walkthrough : 
+
+![Video Walkthrough](movies_final_walkthrough.gif)
+
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
